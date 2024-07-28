@@ -13,7 +13,7 @@ public class Interfaz {
                 JFrame frame = new JFrame("TechSavion");
                 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-                // Crear una etiqueta con el mensaje "Hola Mundo"
+                // Crear una etiqueta con el mensaje "Hola Mundo" 555
                 JLabel label = new JLabel("Interfaz TechSavion:", JLabel.CENTER);
                 
                 // Agregar la etiqueta al marco
