@@ -164,7 +164,7 @@ public class MenuOpcion extends javax.swing.JFrame {
         
         RecursosHumanos recursosHumanos = new RecursosHumanos();
         recursosHumanos.setVisible(true);
-        recursosHumanos.setLocationRelativeTo(this);
+        recursosHumanos.setLocationRelativeTo(this);//hola
     }//GEN-LAST:event_jButton2ActionPerformed
 
  
